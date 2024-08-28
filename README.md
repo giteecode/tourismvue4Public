@@ -15,7 +15,7 @@
 **毕业设计所有选题地址：
 [https://github.com/giteecode/allProject](https://github.com/giteecode/allProject)**
 
-## 基于Java+Springboot+vue3的景区旅游门票管理系统(源代码+数据库)163
+## 基于Java+Springboot+vue3的景区旅游门票管理系统(源代码+数据库+开题+ppt+2万字论文)163
 
 ## 一、系统介绍
 本项目前后端分离(可以改为ssm版本)，分为用户、管理员两种角色
